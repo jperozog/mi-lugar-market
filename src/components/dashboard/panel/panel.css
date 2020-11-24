@@ -1,0 +1,28 @@
+
+  .iconoUser{
+    color: white;
+    font-size: 100px;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.Datosuser{
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.boton{
+  text-decoration: none;
+  margin-top: 5%;
+  height: 50px;
+}
+
+.iconos{
+  font-size: 30px;
+  float: left;
+}
+
+p{
+  line-height: 25px;
+}

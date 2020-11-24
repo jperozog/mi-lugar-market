@@ -1,0 +1,36 @@
+.body{
+    overflow-x: hidden;
+  }
+  .AreaPanel{
+    
+    background-image: linear-gradient(#52A3FE, #65CC66);
+    height: 100vh;
+    border-radius: 10px;
+  }
+  
+  .AreaImagen{
+   background-color: white;
+   
+  height: 100vh;
+  }
+  
+  
+  .Login{
+    width: 100%;
+    border-radius: 10px;
+    min-height: 150px;
+   
+  }
+  
+
+  .iconoUser{
+      color: white;
+      font-size: 100px;
+      margin-left: 30%;
+      margin-top: 10%;
+  }
+
+  .Datosuser{
+      color: white;
+      margin-top: 5%;
+  }

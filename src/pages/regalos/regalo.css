@@ -1,0 +1,87 @@
+.panel{
+    margin-top: 1%;
+}
+
+.titulo2{
+    padding: 10px 20px;
+    border-left: 4px solid #52A3FE;
+    color: black;
+}
+
+.titulo2 h3{
+    color: black;
+}
+
+.iconos{
+    margin-top: 1%;
+}
+
+.cardRegalos{
+    margin-top:10% ;
+    border: none;
+    outline: none   ;
+    position: relative;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    transition: all .5s ease;
+    color: #52A3FE;
+}
+
+.cardRegalos .content{
+    text-align: center;
+}
+
+.cardRegalos .content .iconos{
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    font-size: 90px;
+    color: rgba(0, 0, 0, 0.1);
+}
+
+.cardRegalos .content h3{
+    position: absolute;
+    top: 15px;
+    color: #b95ce4;
+}
+
+.cardRegalos:hover{
+    transform:translateY(-10px);
+    transition: all .5s ease;
+    background-image: linear-gradient(#52A3FE, #65CC66);
+    color: white;
+    border:none
+}
+
+.cardRegalos .content a{
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: #52A3FE;
+   border-radius: 20px;
+    color: white;
+    transition: all .5s ease;
+}
+
+.cardRegalos .content a:hover{
+    background-color: white;
+    color:#52A3FE;
+    transition: all .5s ease;
+}
+
+.tabla{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.tabla2{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.headTabla{
+    border-bottom: 4px solid #52A3FE;
+    color:black;
+}
+
